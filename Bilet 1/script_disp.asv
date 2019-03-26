@@ -1,0 +1,4 @@
+dimensiune = 10;
+populatie = gen_pop_real(dimensiune);
+disp(populatie);
+populatie_mutata = mutatie_pop(populatie,dimensiune,0.6,unifrnd(0
